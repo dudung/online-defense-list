@@ -1,6 +1,9 @@
 # online-defense-list
 List of online defense presentation schedule, which is inspired by [this article](https://now.tufts.edu/articles/defense-online-defenses), but from supervisor point of view, where the schedule could be so tight. That is why following list comes up.
 
+## Not confirmed
+* [``00 Day 0000+07``]() -- 10215033 Perystito Septhian Siahaan (MB)
+
 ## May 2020
 * [``28 Thu 0000+07``]() -- 10216026 Kurnia Anwar Ra'if (NH)
 * [``20 Wed 1530+07``]() -- 10216104 Nadhira Azzahra (SV)
