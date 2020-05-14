@@ -10,7 +10,7 @@ List of online defense presentation schedules, which is inspired by [this articl
 * [``21 Thu 1300+07``]() -- 10215033 Perystito Septhian Siahaan (MB) --> WA
 * [``20 Wed 1630+07``]() -- 10214077 Rizky Adhitama (SV)
 * [``20 Wed 1530+07``]() -- 10216104 Nadhira Azzahra (SV)
-* [``19 Tue 1300+07``]() -- 302xxyyy Yati .. (FH)
+* [``19 Tue 1300+07``]() -- 30213006 Yati Yati Hardiyanti (AW) 
 * [``18 Mon 0900+07``]() -- 30215007 Desyana Olenka Margaretta (MK)
 * [``15 Fri 1530+07``]() -- 30319304 Yunita Anggraini (IM)
 * [``14 Thu 1300+07``]() -- 30215004 Riri Jonuarti (SH)
