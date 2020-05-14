@@ -14,7 +14,7 @@ List of online defense presentation schedules, which is inspired by [this articl
 * [``19 Tue 1300+07``]() -- 30213006 Yati Yati Hardiyanti (AW) 
 * [``18 Mon 0900+07``]() -- 30215007 Desyana Olenka Margaretta (MK)
 * [``15 Fri 1530+07``]() -- 30319304 Yunita Anggraini (IM)
-* [``14 Thu 1300+07``]() -- 30215004 Riri Jonuarti (SH)
+* [``14 Thu 1300+07``]() -- 30215004 Riri Jonuarti (SH) :heavy_check_mark:
 * [``05 Tue 0900+07``]() -- 10216048 Fitra Sri Wahyuhi (NR) :heavy_check_mark:
 
 ## Apr 2020
