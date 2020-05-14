@@ -2,12 +2,13 @@
 List of online defense presentation schedules, which is inspired by [this article](https://now.tufts.edu/articles/defense-online-defenses), but from a supervisor point of view, where the schedule could be so tight. That is why the following list comes up.
 
 ## Not confirmed
-* [``00 Day 0000+07``]() -- 302xxyyy Z (FH) --> WA
 * [``00 Day 0000+07``]() -- 10214071 I Wayan Nadiantara (SV)
 
+## Jun 2020
+* [``04 Thu 0000+07``]() -- 10216026 Kurnia Anwar Ra'if (NH)
+
 ## May 2020
-* [``28 Thu 0000+07``]() -- 10216026 Kurnia Anwar Ra'if (NH) --> WA
-* [``21 Thu 1300+07``]() -- 10215033 Perystito Septhian Siahaan (MB) --> WA
+* [``21 Thu 1300+07``]() -- 10215033 Perystito Septhian Siahaan (MB)
 * [``20 Wed 1630+07``]() -- 10214077 Rizky Adhitama (SV)
 * [``20 Wed 1530+07``]() -- 10216104 Nadhira Azzahra (SV)
 * [``19 Tue 1300+07``]() -- 30213006 Yati Yati Hardiyanti (AW) 
