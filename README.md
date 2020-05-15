@@ -5,7 +5,7 @@ List of online defense presentation schedules, which is inspired by [this articl
 * [``00 Day 0000+07``]() -- 10214071 I Wayan Nadiantara (SV)
 
 ## Jun 2020
-* [``04 Thu 0000+07``]() -- 10216026 Kurnia Anwar Ra'if (NH)
+* [``04 Thu 0900+07``]() -- 10216026 Kurnia Anwar Ra'if (NH)
 
 ## May 2020
 * [``21 Thu 1300+07``]() -- 10215033 Perystito Septhian Siahaan (MB)
