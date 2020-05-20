@@ -3,6 +3,8 @@ List of online defense presentation schedules, which is inspired by [this articl
 
 ## Not confirmed
 * [``00 Day 0000+07``]() -- 10214071 I Wayan Nadiantara (SV)
+* [``00 Day 0000+07``]() -- 10214077 Rizky Adhitama (SV)
+* [``00 Day 0000+07``]() -- 10216104 Nadhira Azzahra (SV)
 
 ## Jun 2020
 * [``05 Fri 1530+07``]() -- 302xxyyy Fauzia P. Lestari (FH)
