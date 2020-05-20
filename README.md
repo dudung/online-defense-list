@@ -11,8 +11,8 @@ List of online defense presentation schedules, which is inspired by [this articl
 ## May 2020
 * [``27 Wed 1000+07``]() -- 10214011 Muhammad Nashih Amien (FD)
 * [``21 Thu 1300+07``]() -- 10215033 Perystito Septhian Siahaan (MB)
-* [``20 Wed 1630+07``]() -- 10214077 Rizky Adhitama (SV)
-* [``20 Wed 1530+07``]() -- 10216104 Nadhira Azzahra (SV)
+* [``20 Wed 1630+07``]() -- 10214077 Rizky Adhitama (SV) :heavy_check_mark:
+* [``20 Wed 1530+07``]() -- 10216104 Nadhira Azzahra (SV) :heavy_check_mark:
 * [``19 Tue 1300+07``]() -- 30213006 Yati Yati Hardiyanti (AW) :heavy_check_mark:
 * [``18 Mon 0900+07``]() -- 30215007 Desyana Olenka Margaretta (MK) :heavy_check_mark:
 * [``15 Fri 1530+07``]() -- 30319304 Yunita Anggraini (IM) :heavy_check_mark:
