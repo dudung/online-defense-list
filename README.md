@@ -5,6 +5,7 @@ List of online defense presentation schedules, which is inspired by [this articl
 * [``00 Day 0000+07``]() -- 10214071 I Wayan Nadiantara (SV)
 
 ## Jun 2020
+* [``05 Fri 1530+07``]() -- 302xxyyy Fauzia P. Lestari (FH)
 * [``04 Thu 0900+07``]() -- 10216026 Kurnia Anwar Ra'if (NH)
 
 ## May 2020
