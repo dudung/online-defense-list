@@ -7,6 +7,8 @@ List of online defense presentation schedules, which is inspired by [this articl
 * [``00 Day 0000+07``]() -- 10216104 Nadhira Azzahra (SV)
 
 ## Jun 2020
+* [``11 Thu 1000+07``]() -- 90218010 Imam Ganjar Maulana (NR)
+* [``09 Tue 1000+07``]() -- 10216048 Fitra Sri Wahyuhi (NR)
 * [``05 Fri 1530+07``]() -- 302xxyyy Fauzia P. Lestari (FH)
 * [``04 Thu 0900+07``]() -- 10216026 Kurnia Anwar Ra'if (NH)
 
