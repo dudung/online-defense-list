@@ -11,7 +11,7 @@ List of online defense presentation schedules, which is inspired by [this articl
 ## Jun 2020
 * [``11 Thu 1000+07``]() -- 90218010 Imam Ganjar Maulana (NR)
 * [``09 Tue 1000+07``]() -- 10216048 Fitra Sri Wahyuhi (NR)
-* [``05 Fri 1530+07``]() -- 30219301 Fauzia Puspa Lestari (FH)
+* [``05 Fri 1530+07``]() -- 30219301 Fauzia Puspa Lestari (IA, FH)
 * [``04 Thu 0900+07``]() -- 10216026 Kurnia Anwar Ra'if (NH)
 
 ## May 2020
@@ -19,10 +19,10 @@ List of online defense presentation schedules, which is inspired by [this articl
 * [``21 Thu 1300+07``]() -- 10215033 Perystito Septhian Siahaan (MB) [:heavy_check_mark:](log/10215033.md)
 * [``20 Wed 1630+07``]() -- 10214077 Rizky Adhitama (SV) :heavy_check_mark:
 * [``20 Wed 1530+07``]() -- 10216104 Nadhira Azzahra (SV) :heavy_check_mark:
-* [``19 Tue 1300+07``]() -- 30213006 Yati Yati Hardiyanti (AW) :heavy_check_mark:
+* [``19 Tue 1300+07``]() -- 30213006 Yati Hardiyanti (AW, FH, NV) :heavy_check_mark:
 * [``18 Mon 0900+07``]() -- 30215007 Desyana Olenka Margaretta (MK) :heavy_check_mark:
-* [``15 Fri 1530+07``]() -- 30319304 Yunita Anggraini (IM) :heavy_check_mark:
-* [``14 Thu 1300+07``]() -- 30215004 Riri Jonuarti (SH) :heavy_check_mark:
+* [``15 Fri 1530+07``]() -- 30319304 Yunita Anggraini (IM, SV) :heavy_check_mark:
+* [``14 Thu 1300+07``]() -- 30215004 Riri Jonuarti (SH, FR, FH) :heavy_check_mark:
 * [``05 Tue 0900+07``]() -- 10216048 Fitra Sri Wahyuhi (NR) :heavy_check_mark:
 
 ## Apr 2020
