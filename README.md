@@ -1,6 +1,8 @@
 # online-defense-list
 List of online defense presentation schedules, which is inspired by [this article](https://now.tufts.edu/articles/defense-online-defenses), but from a supervisor point of view, where the schedule could be so tight. That is why the following list comes up.
 
+* [``00 Thu 1300+07``]() -- Weekly SITH-R Supervising Meeting
+
 ## Not confirmed
 * [``00 Day 0000+07``]() -- 10214071 I Wayan Nadiantara (SV)
 * [``00 Day 0000+07``]() -- 10214077 Rizky Adhitama (SV)
@@ -9,7 +11,7 @@ List of online defense presentation schedules, which is inspired by [this articl
 ## Jun 2020
 * [``11 Thu 1000+07``]() -- 90218010 Imam Ganjar Maulana (NR)
 * [``09 Tue 1000+07``]() -- 10216048 Fitra Sri Wahyuhi (NR)
-* [``05 Fri 1530+07``]() -- 302xxyyy Fauzia P. Lestari (FH)
+* [``05 Fri 1530+07``]() -- 30219301 Fauzia Puspa Lestari (FH)
 * [``04 Thu 0900+07``]() -- 10216026 Kurnia Anwar Ra'if (NH)
 
 ## May 2020
