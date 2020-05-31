@@ -7,7 +7,7 @@ List of online defense presentation schedules, which is inspired by [this articl
 * [``00 Day 0000+07``]() -- xxyyzzz A B (CD)
 
 ## Jun 2020
-* [``26 Fri 0900+07``]() -- 30215007 Desyana Olenka Margaretta (MK, SV)
+* [``26 Fri 0800+07``]() -- 30215007 Desyana Olenka Margaretta (MK, SV)
 * [``11 Thu 1000+07``]() -- 90218010 Imam Ganjar Maulana (NR)
 * [``10 Wed 0000+07``]() -- 10214077 Rizky Adhitama (SV)
 * [``10 Wed 0000+07``]() -- 10216104 Nadhira Azzahra (SV)
