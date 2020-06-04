@@ -1,7 +1,10 @@
 # online-defense-list
 List of online defense presentation schedules, which is inspired by [this article](https://now.tufts.edu/articles/defense-online-defenses), but from a supervisor point of view, where the schedule could be so tight. That is why the following list comes up.
 
+
+## Weekly meeting
 * [``00 Thu 1300+07``]() -- Weekly SITH-R Supervising Meeting
+* [``00 Mon 0900+07``]() -- Weekly WRAM and Academic Vice Dean Meeting
 
 ## Not confirmed
 * [``00 Day 0000+07``]() -- xxyyzzz A B (CD)
