@@ -4,6 +4,7 @@ List of online defense presentation schedules, which is inspired by [this articl
 
 ## Weekly meeting
 * [``00 Thu 1300+07``]() -- Weekly SITH-R Supervising Meeting
+* [``00 Tue 1300+07``]() -- Weekly PTPB Meeting
 * [``00 Mon 0900+07``]() -- Weekly WRAM and Academic Vice Dean Meeting
 
 ## Not confirmed
