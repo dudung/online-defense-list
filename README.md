@@ -18,7 +18,7 @@ List of online defense presentation schedules, which is inspired by [this articl
 * [``10 Wed 1300+07``]() -- 10214077 Rizky Adhitama (SV)
 * [``09 Tue 1000+07``]() -- 10216048 Fitra Sri Wahyuhi (NR)
 * [``08 Mon 1530+07``]() -- 30319304 Yunita Anggraini (IM)
-* [``05 Fri 1530+07``]() -- 30219301 Fauzia Puspa Lestari (IA, FH)
+* [``05 Fri 1530+07``]() -- 30219301 Fauzia Puspa Lestari (IA, FH) :x:
 * [``04 Thu 1530+07``]() -- 10214071 I Wayan Nadiantara (SV) :heavy_check_mark:
 * [``04 Thu 0900+07``]() -- 10216026 Kurnia Anwar Ra'if (NH) :heavy_check_mark:
 
