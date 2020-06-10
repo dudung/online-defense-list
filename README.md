@@ -39,5 +39,5 @@ List of online defense presentation schedules, which is inspired by [this articl
 * [``24 Fri 1300+07``]() -- 30215005 Rahmawati Munir (MK, SV) :heavy_check_mark:
 * [``09 Thu 0900+07``]() -- 90218010 Imam Ganjar Maulana (NR) :heavy_check_mark:
 
-## Links
+## Link
 url https://www.webfx.com/tools/emoji-cheat-sheet/
