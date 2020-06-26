@@ -12,8 +12,8 @@ List of online defense presentation schedules, which is inspired by [this articl
 
 ## Jun 2020
 * [``30 Tue 0900+07``]() -- 30213006 Yati Hardiyanti (AW, FH, NV)
-* [``26 Fri 0800+07``]() -- 30215007 Desyana Olenka Margaretta (MK, SV)
-* [``24 Wed 0800+07``]() -- 30215007 Rahmawati Munir (MK, SV)
+* [``26 Fri 0800+07``]() -- 30215007 Desyana Olenka Margaretta (MK, SV) :heavy_check_mark:
+* [``24 Wed 0800+07``]() -- 30215007 Rahmawati Munir (MK, SV) :heavy_check_mark:
 * [``19 Fri 1400+07``]() -- 20218012 Fitri Kurniati (FH) :heavy_check_mark:
 * [``17 Wed 1100+07``]() -- 20219030 Hadyan (FZ) :heavy_check_mark:
 * [``15 Mon 1530+07``]() -- 10214071 I Wayan Nadiantara (SV) :heavy_check_mark:
