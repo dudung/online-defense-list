@@ -14,8 +14,8 @@ List of online defense presentation schedules, which is inspired by [this articl
 * [``27 Mon 1530+07``]() -- 10215053 Limbong Buddy Martin Mulya (FH)
 
 ## Jun 2020
-* [``30 Tue 1330+07``]() -- 20918001 Beryl Ramadhian Ariwibowo (MA-KAS, KI-RH)
-* [``30 Tue 0900+07``]() -- 30213006 Yati Hardiyanti (AW, FH, NV)
+* [``30 Tue 1330+07``]() -- 20918001 Beryl Ramadhian Ariwibowo (MA-KAS, KI-RH) :heavy_check_mark:
+* [``30 Tue 0900+07``]() -- 30213006 Yati Hardiyanti (AW, FH, NV) :heavy_check_mark:
 * [``26 Fri 0800+07``]() -- 30215007 Desyana Olenka Margaretta (MK, SV) :heavy_check_mark:
 * [``24 Wed 0800+07``]() -- 30215007 Rahmawati Munir (MK, SV) :heavy_check_mark:
 * [``19 Fri 1400+07``]() -- 20218012 Fitri Kurniati (FH) :heavy_check_mark:
