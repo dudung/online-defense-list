@@ -11,6 +11,8 @@ List of online defense presentation schedules, which is inspired by [this articl
 * [``00 Day 0000+07``]() -- xxyyzzz A B (CD)
 
 ## Jun 2020
+
+* [``30 Tue 1330+07``]() -- Beryl Ramadhian Ariwibowo (MA-KAS, KI-RH)
 * [``30 Tue 0900+07``]() -- 30213006 Yati Hardiyanti (AW, FH, NV)
 * [``26 Fri 0800+07``]() -- 30215007 Desyana Olenka Margaretta (MK, SV) :heavy_check_mark:
 * [``24 Wed 0800+07``]() -- 30215007 Rahmawati Munir (MK, SV) :heavy_check_mark:
