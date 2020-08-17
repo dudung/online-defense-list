@@ -11,8 +11,11 @@ List of online defense presentation schedules, which is inspired by [this articl
 ## Not confirmed
 * [``00 Day 0000+07``]() -- xxyyzzz A B (CD)
 
+## Aug 2020
+* [``18 Tue 1300+07``]() -- 10215053 Limbong Buddy Martin Mulya (FH)
+
 ## Jul 2020
-* [``27 Mon 1530+07``]() -- 10215053 Limbong Buddy Martin Mulya (FH)
+* [``27 Mon 1530+07``]() -- 10215053 Limbong Buddy Martin Mulya (FH) :heavy_check_mark:
 
 ## Jun 2020
 * [``30 Tue 1330+07``]() -- 20918001 Beryl Ramadhian Ariwibowo (MA-KAS, KI-RH) :heavy_check_mark:
