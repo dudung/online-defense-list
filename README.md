@@ -13,6 +13,7 @@ List of online defense presentation schedules, which is inspired by [this articl
 
 ## Aug 2020
 * [``18 Tue 1300+07``]() -- 10215053 Limbong Buddy Martin Mulya (FH)
+* [``12 Wed 1530+07``]() -- 20918004 Aufa Nu'man Fadhilah Rudiawan (SV, MA-KNS) :heavy_check_mark:
 
 ## Jul 2020
 * [``27 Mon 1530+07``]() -- 10215053 Limbong Buddy Martin Mulya (FH) :heavy_check_mark:
