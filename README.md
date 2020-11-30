@@ -11,6 +11,9 @@ List of online defense presentation schedules, which is inspired by [this articl
 ## Not confirmed
 * [``00 Day 0000+07``]() -- xxyyzzz A B (CD)
 
+## Dec 2020
+* [``09 Wed 1430+07``]() -- 20917015 Ahmad Fauzan Fibriansyah (MA-KAS)
+
 ## Aug 2020
 * [``20 Thu 0900+07``]() -- 90217310 Ridwan Nurhaq Lamuda (NV)
 * [``18 Tue 1300+07``]() -- 10215053 Limbong Buddy Martin Mulya (FH)
