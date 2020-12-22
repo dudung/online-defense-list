@@ -16,7 +16,7 @@ List of online defense presentation schedules, which is inspired by [this articl
 
 ## Aug 2020
 * [``20 Thu 0900+07``]() -- 90217310 Ridwan Nurhaq Lamuda (NV)
-* [``18 Tue 1300+07``]() -- 10215053 Limbong Buddy Martin Mulya (FH)
+* [``18 Tue 1300+07``]() -- 10215053 Limbong Buddy Martin Mulya (FH) :heavy_check_mark:
 * [``12 Wed 1530+07``]() -- 20918004 Aufa Nu'man Fadhilah Rudiawan (SV, MA-KNS) :heavy_check_mark:
 * [``10 Mon 1600+07``]() -- 20917009 Achmad Maulana Gani (FH) :heavy_check_mark:
 
