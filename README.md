@@ -13,6 +13,10 @@ List of online defense presentation schedules, which is inspired by [this articl
 
 ## Dec 2020
 * [``30 Wed 1000+07``]() -- 20917015 Ahmad Fauzan Fibriansyah (MA-KAS)
+* [``28 Mon 1100+07``]() -- 38720003 Sra Harke Pratama (Nano)
+* [``28 Mon 1000+07``]() -- 38720001 Feraliana (Nano)
+* [``28 Mon 0830+07``]() -- 90218005 Ernawati (NV)
+* [``24 Dec 1000+07``]() -- 1402153 Khairil Anwar (UPI-DR, UPI-IK, SV)
 * [``23 Wed 1400+07``]() -- 90218302 Akhmad Yusuf (IM, DK)
 * [``16 Wed 1430+07``]() -- 20917015 Ahmad Fauzan Fibriansyah (MA-KAS) :heavy_check_mark:
 * [``10 The 1400+07``]() -- 90218302 Akhmad Yusuf (IM, DK) :heavy_check_mark:
