@@ -15,6 +15,7 @@ List of online defense presentation schedules, which is inspired by [this articl
 * [``30 Wed 1000+07``]() -- 20917015 Ahmad Fauzan Fibriansyah (MA-KAS)
 
 * [``16 Wed 1430+07``]() -- 20917015 Ahmad Fauzan Fibriansyah (MA-KAS) :heavy_check_mark:
+* [``10 The 1400+07``]() -- 90218302 Akhmad Yusuf (IM, DK) :heavy_check_mark:
 
 ## Aug 2020
 * [``19 Thu 1600+07``]() -- 90217310 Ridwan Nurhaq Lamuda (NV) :heavy_check_mark:
